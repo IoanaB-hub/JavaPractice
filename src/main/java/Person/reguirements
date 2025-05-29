@@ -1,0 +1,34 @@
+Create a class _Person_, which will model some properties of a real person
+(hint: may use the similar examples from presentation)
+
+Add these members to the class:
+
+ - _fields: _name, birthYear, age, hairColor (all private)
+
+ - _constructors_: add the necessary constructors, in such a way as to enforce
+   these rules:
+   - name, birthYear, age are mandatory - should be requested for building
+     any Person instance;
+   - hairColor is optional - not strictly needed, when not specified the
+     new Person should be set to use the default 'brown' color.
+     _(hint: you should create 2 constructors, one with a hairColor param and
+     one without, and try to use "this()" to avoid repeating code between them)_
+
+ - _getters/setters_ - add only the ones needed so that we can later read
+     all properties of the person, but can modify only the hairColor field
+      (hint: you'll need 4 getters and 1 setter)
+
+ - _other methods_:
+
+    - _toString()_ - returns a description of the current person
+      (with all his properties), as a single String (which we can then print..)
+
+   - _isOlderThan(Person other)_ - returns true if the current person
+     instance is older than the given 'other' person
+
+   - _uniqueNames()_ - return the list of unique names of all persons.
+
+   - _averageAge()_ - return the average age for all persons
+
+   - __test class
+         -> add at least 5 persons and run all the methods.
