@@ -1,0 +1,22 @@
+ /* Create a **Accommodation** class representing a building, with these properties:
+   - category (possible values: hotel, studio, pension, house)
+   - price
+   - city
+
+   _Note_: you should use an `enum` for the values of category field.
+
+   Create a **AccommodationRegistry** class, containing these _static_ methods
+   (each receives a `List<Accommodation>` as an input parameter, and you need
+   to decide on their return type):
+
+      - **`categoriesCount()`** - returns the number of categories (of the
+     actual accommodation, not all possible categories)
+
+   - **`cityList()`** - returns the list of names of unique
+     city, sorted alphabetically (hint: may use a Set; what
+     implementation could you use to also help you with sorting?..)
+
+   - **`averagePriceForOneCategory()`** - returns the average price for
+     buildings from only one category (given as a 2nd input param to the method)
+     - _Question: what should be the return type for this method?..
+     */
