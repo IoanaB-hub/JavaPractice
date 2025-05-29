@@ -28,8 +28,10 @@ public class PersonTest {
         System.out.println("John's new hair color: " + personList.get(4));
 
 
-        System.out.println(PersonMethods.pinkHairColorForEveryone(personList));
+        System.out.println(PersonMethods.pinkHairColorForEveryone(personList,"pink"));
         System.out.println("Updated hair color: " + personList);
 
+        System.out.println(PersonMethods.pinkHairColorForEveryone(personList,"purple"));
+        System.out.println("Updated hair color: " + personList);
     }
 }

@@ -37,12 +37,12 @@ public class PersonMethods {
 
     }
 
-    public static String pinkHairColorForEveryone(List<Person> personList) {
+    public static String pinkHairColorForEveryone(List<Person> personList, String newColor) {
 
         for (Person person : personList) {
-            person.setHairColor("pink");
+            person.setHairColor(newColor);
         }
-        return "All persons now have pink hair.";
+        return "All persons have new hair color.";
 
     }
 
