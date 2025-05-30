@@ -1,0 +1,19 @@
+Exercise: Employee Hierarchy
+Problem Statement:
+Create a Java program to represent a hierarchy of employees in a company. You will have the following classes:
+
+Employee (Base/Parent Class): Represents a generic employee with common attributes like name, employee ID, and salary.
+Manager (Derived Class): A subclass of Employee, which includes an additional attribute for the department managed by the manager.
+Developer (Derived Class): A subclass of Employee, which includes an additional attribute for the programming language the developer specializes in.
+Each class should have appropriate methods for setting and getting values, as well as a method for displaying employee details.
+
+To be implemented:
+__-Create a base class Employee with attributes like name, employee ID, and salary. Include a method displayDetails() to display these attributes.
+
+__-Create a subclass Manager that inherits from Employee.
+Add an additional attribute for the department managed by the manager, and override the displayDetails() method to include this information.
+
+__-Create a subclass Developer that also inherits from Employee.
+Add an additional attribute for the programming language the developer specializes in, and override the displayDetails() method to include this information.
+
+__-Write a Main class to create instances of Employee, Manager, and Developer, and test the program by calling the displayDetails() method for each object.

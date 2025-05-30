@@ -1,0 +1,21 @@
+-- Create a class __Employee__, which will model some properties of a real person
+-- Add these variables to the class:
+ - __fields__: name, jobTitle (the values accepted are Quality Assurance, BE developer, FE developer and Business Analyst),
+               age, seniority, salary.
+ - __constructors__: add the necessary constructors.
+ - __ use enum for job titles
+
+ - __ create the following methods:
+      - getters and setters -
+      - toString() method
+      - raiseSalary() - to raise the salary of the employee by a given percentage and return the new list of salaries -> percentage: 15%
+      - isEligibleForRetirement - method to check eligibility for retirement and return the persons that are eligible
+      - compareSalary() - check 3 situations:
+                        - employee1 earns more than employee2
+                        - employee1 earns less tha employee2
+                        - employee1 and employee2 have the same salary
+
+      - calculateTotalEarningsPerEmployee() - method to calculate total earnings based on seniority and salary
+                                 - calculate for each employee
+
+      - getEmployeesForEachJobTitle() - method to return the emp name who works in a specific job title
