@@ -1,0 +1,20 @@
+Scenario Polymorphism:
+
+You have been hired to develop a vehicle management system for a transportation company. In this system,
+there are different types of vehicles, such as Car, Bicycle, and Truck. All these vehicles share a common behavior:
+they can emit a specific sound when started. The system should be capable of managing different types of vehicles and calling
+the emitSound() method in a polymorphic manner, without knowing the exact type of vehicle in advance.
+
+Requirements:
+Create an abstract class Vehicle that contains an abstract method emitSound().
+Create three derived classes: Car, Bicycle, and Truck. Each of these classes should override the emitSound() method to
+display a specific message:
+---> Car should display: "The car goes vroom!"
+---> Bicycle should display: "The bicycle goes ding ding!"
+---> Truck should display: "The truck goes honk honk!"
+
+Create a class Garage that contains a list of vehicles (List<Vehicle>). Add a method startVehicles() that iterates over the
+list and calls the emitSound() method for each vehicle.
+
+In the main method, create an instance of Garage, add some vehicles of different types, and call the startVehicles() method
+to demonstrate polymorphism.

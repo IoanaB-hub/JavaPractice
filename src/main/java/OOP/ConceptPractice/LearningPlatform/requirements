@@ -1,0 +1,22 @@
+Online Learning Platform – A system to manage instructors, students, and courses in an online learning environment.
+Requirements:
+Classes:
+-	Person: parent class   fields: userID, name, email.
+-	Instructor: child class  additional fields: department and courses.
+-	Student: child class  additional fields: studentID, enrolledCourses.
+-	Course  fields: courseID, courseName, durationInWeeks and instructor.
+-	Test  track which students are enrolled in which courses, along with their grades.
+Use the OOP principles.
+-	Encapsulation  All fields should be private, with public getter and setter methods to access and modify data.
+-	Abstraction  Use an abstract class Person to define basic methods like getName(), getUserID(), and getEmail(), which will be implemented by both Instructor and Student.
+-	Inheritance  The Student and Instructor classes inherit common functionality from the Person class.
+-	Polymorphism  Use method overriding in the Instructor and Student classes to have different implementations for getRole() (e.g., "Instructor" or "Student").
+Basic functionalities to be added:
+-	Add course  instructors can create new courses.
+-	Enroll in course  students can enroll in available courses.
+-	Assign grades  instructors can assign grades to the students for the courses they teach.
+-	Receive Grades  students can receive grades.
+-	View grades  students can view their grades for each course.
+-	View enrolled students  view enrolled students in a course.
+Main class / Test class:
+

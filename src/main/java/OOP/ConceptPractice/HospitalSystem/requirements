@@ -1,0 +1,31 @@
+Scenario:
+You need to design a Hospital Management System where different types of personnel such as Doctors, Nurses, and Administrative Staff work. Each type of personnel has common attributes like name, ID, and salary, but they have different roles and responsibilities. Doctors can prescribe treatments or medications, while nurses assist in caregiving. Administrative staff handle scheduling and billing.
+OOP Principles Covered:
+1.	Encapsulation: All the data is hidden, and access is provided via methods.
+2.	Inheritance: Doctors, nurses, and administrative staff inherit from a common Employee class (parent/superclass).
+3.	Polymorphism: The system can treat different personnel types uniformly but allows them to have specific behaviors.
+4.	Abstraction: The system defines abstract methods for specific behaviors like performing duties, which are implemented in the subclasses.
+Extra:
+Static Methods:
+-	static methods are used to track total numbers of employees in the system.
+-	static method to calculate the average salary of all employees.
+
+Employee class:
+-	Parent class contains the common fields: id, name, salary.
+-	Add the needed getters/setters methods.
+-	Create the displayDetails() method in order to display the data related to each employee.
+-	Add the abstract method performDuties() – the method is different based on the employee type (doctors, nurses, administrativeStaff).
+Doctor class:
+-	Contains a specific field – specialization.
+-	Add the methods performDuties() + prescribeMedication().
+Nurse class:
+-	No specific field.
+-	Add performDuties() method.
+-	The nurses are checking the patients vitals, add a method for this.
+Admin class:
+-	No specific field.s
+-	Add methods performDuties() and manageSchedule.
+Test class:
+-	Create hospital employees.
+-	Display the details related to the employees.
+-	Run the performDuties() method for each type of employee.

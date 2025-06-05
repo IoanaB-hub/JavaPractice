@@ -1,0 +1,11 @@
+University - program to evaluate the performance of each type of employee:
+
+Abstract class - superclass, parent: Employee
+Subclasses - child:
+Types of employees:
+- Professors
+- Researchers
+- Administrative staff
+
+Common attributes: id, name, salary
+Different attributes, methods: calculate annual salary, describe role

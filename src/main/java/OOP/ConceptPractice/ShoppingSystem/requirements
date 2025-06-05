@@ -1,0 +1,23 @@
+-- Exercise: Online Shopping System --
+
+-- Scenario --
+You are designing an online shopping system where customers can browse and purchase different types of products.
+The system should manage various product types, handle customer orders, and apply discounts based on product categories.
+
+-- Requirements --
+Encapsulation: Each product and customer should have properties and methods to access and modify these properties.
+               Ensure that internal details are hidden from outside classes.
+
+Inheritance: Create a base class for common properties and methods of products. Then, derive specific types of products from this base class.
+             Similarly, create a base class for common customer properties and derived classes for different types of customers.
+
+Polymorphism: Implement methods to calculate the total price of an order and apply discounts.
+              These methods should work with different types of products and customers.
+
+Abstraction: Use abstract classes and methods to define common interfaces for products and customers.
+             Ensure that derived classes implement specific behaviors.
+
+Clothes - 10% discount
+Electronics - 20% discount
+
+PremiumCustomer - 10% discount
