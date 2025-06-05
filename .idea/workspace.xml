@@ -5,7 +5,42 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ae446806-bd08-4d18-9395-e1c9c46a09c5" name="Changes" comment="commit">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/OOP/Abstract/University/AdministrativeStaff.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/OOP/Abstract/University/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/OOP/Abstract/University/Professor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/OOP/Abstract/University/Researcher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/OOP/Abstract/University/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/OOP/Abstract/University/requirements" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/OOP/ConceptPractice/HospitalSystem/Admin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/OOP/ConceptPractice/HospitalSystem/Doctor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/OOP/ConceptPractice/HospitalSystem/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/OOP/ConceptPractice/HospitalSystem/Nurse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/OOP/ConceptPractice/HospitalSystem/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/OOP/ConceptPractice/HospitalSystem/requirements" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/OOP/ConceptPractice/ShoppingSystem/Clothes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/OOP/ConceptPractice/ShoppingSystem/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/OOP/ConceptPractice/ShoppingSystem/Electronics.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/OOP/ConceptPractice/ShoppingSystem/Order.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/OOP/ConceptPractice/ShoppingSystem/PremiumCustomer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/OOP/ConceptPractice/ShoppingSystem/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/OOP/ConceptPractice/ShoppingSystem/RegularCustomer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/OOP/ConceptPractice/ShoppingSystem/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/OOP/ConceptPractice/ShoppingSystem/requirements" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/OOP/ConceptPractice/VehicleManagementSystem/Bicycle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/OOP/ConceptPractice/VehicleManagementSystem/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/OOP/ConceptPractice/VehicleManagementSystem/Garage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/OOP/ConceptPractice/VehicleManagementSystem/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/OOP/ConceptPractice/VehicleManagementSystem/Truck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/OOP/ConceptPractice/VehicleManagementSystem/Vehicle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/OOP/ConceptPractice/VehicleManagementSystem/requirements" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/OOP/Encapsulation/BankAccount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/OOP/Polymorphism/Overloading/MessageSender.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/OOP/Polymorphism/Overloading/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/OOP/Polymorphism/Overriding/EmailNotification.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/OOP/Polymorphism/Overriding/Notification.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/OOP/Polymorphism/Overriding/PushNotification.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/OOP/Polymorphism/Overriding/SmsNotification.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/OOP/Polymorphism/Overriding/Test.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/OOP/Inheritance/Employee/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/OOP/Inheritance/Employee/Test.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -24,9 +59,12 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 5
-}]]></component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
   <component name="ProjectId" id="2xXMV8mk5CqRiqVXEr8lJrSdBJh" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -54,7 +92,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "Merging master",
     "kotlin-language-version-configured": "true",
     "onboarding.tips.debug.path": "D:/JavaPractice/src/main/java/org/example/Main.java",
     "project.structure.last.edited": "Project",
