@@ -56,6 +56,13 @@ public class Student extends Person {
         }
     }
 
+    public void viewCoursesForEachInstructor(Instructor instructor){
+        System.out.println("Courses taught by " + instructor.getName() + ":");
+        for(Course course : instructor.getCourses()){
+            System.out.println(course.getCourseName());
+        }
+    }
+
 
     @Override
     String getRole() {
