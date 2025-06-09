@@ -4,44 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ae446806-bd08-4d18-9395-e1c9c46a09c5" name="Changes" comment="commit">
-      <change afterPath="$PROJECT_DIR$/src/main/java/OOP/Abstract/University/AdministrativeStaff.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/OOP/Abstract/University/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/OOP/Abstract/University/Professor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/OOP/Abstract/University/Researcher.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/OOP/Abstract/University/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/OOP/Abstract/University/requirements" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/OOP/ConceptPractice/HospitalSystem/Admin.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/OOP/ConceptPractice/HospitalSystem/Doctor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/OOP/ConceptPractice/HospitalSystem/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/OOP/ConceptPractice/HospitalSystem/Nurse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/OOP/ConceptPractice/HospitalSystem/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/OOP/ConceptPractice/HospitalSystem/requirements" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/OOP/ConceptPractice/ShoppingSystem/Clothes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/OOP/ConceptPractice/ShoppingSystem/Customer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/OOP/ConceptPractice/ShoppingSystem/Electronics.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/OOP/ConceptPractice/ShoppingSystem/Order.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/OOP/ConceptPractice/ShoppingSystem/PremiumCustomer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/OOP/ConceptPractice/ShoppingSystem/Product.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/OOP/ConceptPractice/ShoppingSystem/RegularCustomer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/OOP/ConceptPractice/ShoppingSystem/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/OOP/ConceptPractice/ShoppingSystem/requirements" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/OOP/ConceptPractice/VehicleManagementSystem/Bicycle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/OOP/ConceptPractice/VehicleManagementSystem/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/OOP/ConceptPractice/VehicleManagementSystem/Garage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/OOP/ConceptPractice/VehicleManagementSystem/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/OOP/ConceptPractice/VehicleManagementSystem/Truck.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/OOP/ConceptPractice/VehicleManagementSystem/Vehicle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/OOP/ConceptPractice/VehicleManagementSystem/requirements" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/OOP/Encapsulation/BankAccount.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/OOP/Polymorphism/Overloading/MessageSender.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/OOP/Polymorphism/Overloading/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/OOP/Polymorphism/Overriding/EmailNotification.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/OOP/Polymorphism/Overriding/Notification.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/OOP/Polymorphism/Overriding/PushNotification.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/OOP/Polymorphism/Overriding/SmsNotification.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/OOP/Polymorphism/Overriding/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/OOP/Inheritance/Employee/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/OOP/Inheritance/Employee/Test.java" afterDir="false" />
+    <list default="true" id="ae446806-bd08-4d18-9395-e1c9c46a09c5" name="Changes" comment="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/OOP/ConceptPractice/LearningPlatform/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/OOP/ConceptPractice/LearningPlatform/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/OOP/ConceptPractice/LearningPlatform/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/OOP/ConceptPractice/LearningPlatform/Test.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -80,6 +46,7 @@
     "Application.ListDemo.executor": "Run",
     "Application.Methods.executor": "Run",
     "Application.OOP.Abstract.University.Test.executor": "Run",
+    "Application.OOP.ConceptPractice.LearningPlatform.Test.executor": "Run",
     "Application.OOP.ConceptPractice.ShoppingSystem.Test.executor": "Run",
     "Application.OOP.ConceptPractice.VehicleManagementSystem.Test.executor": "Run",
     "Application.OOP.Polymorphism.Overloading.Test.executor": "Run",
@@ -92,7 +59,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "Merging master",
+    "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
     "onboarding.tips.debug.path": "D:/JavaPractice/src/main/java/org/example/Main.java",
     "project.structure.last.edited": "Project",
@@ -105,7 +72,20 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Test">
+  <component name="RunManager" selected="Application.OOP.ConceptPractice.LearningPlatform.Test">
+    <configuration name="OOP.ConceptPractice.LearningPlatform.Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="OOP.ConceptPractice.LearningPlatform.Test" />
+      <module name="JavaPractice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="OOP.ConceptPractice.LearningPlatform.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="OOP.ConceptPractice.ShoppingSystem.Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="OOP.ConceptPractice.ShoppingSystem.Test" />
       <module name="JavaPractice" />
@@ -125,19 +105,6 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="OOP.ConceptPractice.VehicleManagementSystem.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="OOP.Polymorphism.Overloading.Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="OOP.Polymorphism.Overloading.Test" />
-      <module name="JavaPractice" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="OOP.Polymorphism.Overloading.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -173,11 +140,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.OOP.ConceptPractice.LearningPlatform.Test" />
         <item itemvalue="Application.Test" />
         <item itemvalue="Application.OOP.ConceptPractice.VehicleManagementSystem.Test" />
         <item itemvalue="Application.OOP.ConceptPractice.ShoppingSystem.Test" />
         <item itemvalue="Application.OOP.Polymorphism.Overriding.Test" />
-        <item itemvalue="Application.OOP.Polymorphism.Overloading.Test" />
       </list>
     </recent_temporary>
   </component>
@@ -238,12 +205,46 @@
       <option name="project" value="LOCAL" />
       <updated>1748623154166</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Finished merge">
+      <option name="closed" value="true" />
+      <created>1749474889563</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1749474889563</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Finished merge">
+      <option name="closed" value="true" />
+      <created>1749474913810</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1749474913810</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml">
+      <option name="closed" value="true" />
+      <created>1749475051489</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1749475051489</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml">
+      <option name="closed" value="true" />
+      <created>1749475092944</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1749475092944</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="commit" />
+    <MESSAGE value="Finished merge" />
+    <MESSAGE value="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml" />
+    <option name="LAST_COMMIT_MESSAGE" value="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

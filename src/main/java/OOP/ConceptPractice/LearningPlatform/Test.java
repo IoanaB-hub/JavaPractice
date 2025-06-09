@@ -60,6 +60,12 @@ public class Test {
         System.out.println(student3.getEnrolledCourses());
         System.out.println(student4.getEnrolledCourses());
 
+        System.out.println();
+
+        student1.viewCoursesForEachInstructor(instructor1);
+        student2.viewCoursesForEachInstructor(instructor2);
+
+
 
     }
 }
